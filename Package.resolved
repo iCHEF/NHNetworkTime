@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cocoaasyncsocket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iCHEF/CocoaAsyncSocket.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c8badea4d1d00eca8a691fbf8f207213316373fb"
+      }
+    }
+  ],
+  "version" : 2
+}
