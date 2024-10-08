@@ -11,9 +11,7 @@
 #import <UIKit/UIKit.h>
 #import <sys/time.h>
 
-
-
-#import <CocoaAsyncSocket/GCDAsyncUdpSocket.h>
+@import CocoaAsyncSocket;
 
 @protocol NHNetAssociationDelegate;
 
